@@ -1,0 +1,8 @@
+.spectra/
+openspec/.vector-search.db*
+
+.vercel
+*.local
+.DS_Store
+Thumbs.db
+Spotch_1
